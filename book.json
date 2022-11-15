@@ -1,0 +1,30 @@
+{
+    "title": "春秋战国",
+    "description": "记录那一段礼乐崩坏的时期",
+    "generator": "laan",
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        },
+        "sidebar": {
+        }
+    },
+    "plugins": [
+        "search-pro",
+        "popup",
+        "splitter",
+        "page-toc-button",
+        "expandable-chapters-small"
+    ],
+    "pluginsConfig": {
+        "page-treeview": {
+            "copyright": "Copyright &#169 laan",
+            "minHeaderCount": "2",
+            "minHeaderDeep": "2"
+        }
+    }
+}
