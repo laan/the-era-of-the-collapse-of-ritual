@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "公元/前611年~前601年.md",
+                "file": "公元/前650年~前601年.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,9 +114,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f558dbc3d4a8c8b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "公元/前650年~前601年.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bec2bed11de44a63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "公元/前650年~前601年.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e80a94b7822240d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "晋/灵公/三壮士.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -182,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "晋/灵公/三壮士.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "晋/灵公/三壮士.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUMMARY.md"
+                "file": "晋/灵公/三壮士.md"
               }
             }
           }
@@ -233,17 +269,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ad262cccd0cb2358",
+  "active": "4e80a94b7822240d",
   "lastOpenFiles": [
-    "晋/前言.md",
-    "SUMMARY.md",
+    "公元/前650年~前601年.md",
+    "楚/庄公/楚人灭庸.md",
     "晋/灵公/赵穿攻灵公于桃园.md",
+    "晋/灵公/三壮士.md",
     "晋/灵公.md",
-    "晋/assets.md",
-    "公元/前611年~前601年.md",
-    "晋/灵公/赵穿杀灵公.md",
-    "晋/灵公 1.md",
-    "宋/文公.md",
-    "公元/前722年~前711年.md"
+    "楚/assets/MG531.jpeg",
+    "SUMMARY.md",
+    "楚/assets.md",
+    "蔡/文候.md",
+    "楚/庄公.md"
   ]
 }
