@@ -20,6 +20,66 @@
             }
           },
           {
+            "id": "baf46bdd5e3edc3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "楚/平王/诛伍奢，伍尚，伍胥奔吴.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10057da3566660d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "楚/平王.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1a9ee496707c378",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "楚/平王/诛伍奢，伍尚，伍胥奔吴.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "076a82691755f6ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "楚/前言.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ac5d44a3a30845c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "楚/平王/子比其济乎.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "dbbb0a782424987e",
             "type": "leaf",
             "state": {
@@ -91,7 +151,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "楚/平王/诛伍奢，伍尚，伍胥奔吴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "楚/平王/诛伍奢，伍尚，伍胥奔吴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUMMARY.md"
+                "file": "楚/平王/诛伍奢，伍尚，伍胥奔吴.md"
               }
             }
           }
@@ -208,17 +269,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "099515fa5d0359a2",
+  "active": "baf46bdd5e3edc3d",
   "lastOpenFiles": [
+    "楚/平王/子比其济乎.md",
+    "楚/平王/诛伍奢，伍尚，伍胥奔吴.md",
+    "公元/前550年~前501年.md",
     "公元/前650年~前601年.md",
-    "公元/前言.md",
+    "公元/前700年~前649年.md",
+    "楚/昭王.md",
+    "楚/昭王/伍胥辱平王墓.md",
     "楚/武王.md",
-    "楚/前言.md",
-    "楚/穆王.md",
-    "楚/武王/楚伐随.md",
-    "楚/武王/王卒军中.md",
-    "楚/成王/商臣弑君.md",
-    "SUMMARY.md",
-    "公元/前700年~前649年.md"
+    "楚/平王.md",
+    "楚/前言.md"
   ]
 }
