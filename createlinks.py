@@ -11,7 +11,7 @@ COUNTRIES = ["周", "鲁", "宋", "卫", "陈", "蔡", "曹", "郑", "燕", "吴
 
 
 project_folder = os.path.dirname(os.path.realpath(__file__))
-print(project_folder)
+# print(project_folder)
 
 
 class ContentDetail():
@@ -43,7 +43,8 @@ class ContentDetail():
         # if "三壮士" not in file_path:
         #     return
 
-        re_v = re.compile("([" + ''.join(COUNTRIES) + "])(.{1,2}[公王侯])([元一二三四五六七八九十]+年).*?(前?\d+)年.*")
+        # 敖，特为楚郏敖匹配
+        re_v = re.compile("([" + ''.join(COUNTRIES) + "])(.{1,2}[公王侯敖])([元一二三四五六七八九十]+年).*?(前?\d+)年.*")
 
         md_file = open(file_path, "r")
         for i in range(5):
